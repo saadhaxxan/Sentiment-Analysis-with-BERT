@@ -1,4 +1,4 @@
-<h1 align="center">Sentiment-Analysis-with-BERT</h1>
+<h1 align="center">Sentiment Analysis with BERT</h1>
 
 <a href="#">
   <div align="center">
